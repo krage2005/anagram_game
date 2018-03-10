@@ -35,7 +35,7 @@ import com.toy.anagrams.lib.WordLibrary;
 import java.awt.Dimension;
 import java.awt.Point;
 import java.awt.Toolkit;
-import javax.swing.JFrame;
+import javax.swing.*;
 import javax.swing.SwingUtilities;
 
 /**
