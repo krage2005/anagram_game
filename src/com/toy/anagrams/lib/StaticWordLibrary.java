@@ -87,6 +87,7 @@ final class StaticWordLibrary extends WordLibrary
 
   private static final String[] SCRAMBLED_WORD_LIST =
   {
+    "test",
     "batsartcoin",
     "maibuguos",
     "ratimhteci",
